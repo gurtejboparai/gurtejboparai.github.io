@@ -1,5 +1,3 @@
-# **GURTEJ BOPARAI**
-
 77 University Crescent 
 
 Winnipeg MB, R3T 3N8 
