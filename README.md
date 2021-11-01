@@ -1,5 +1,4 @@
 ## Host your resume online
-![MySite](mySite.gif)
 ------------
 ### Purpose
 To explain how to host a resume on Github Pages.
@@ -39,6 +38,7 @@ You will need the following:
 - Go the link you chose as your reposiroty name "username.github.io" in your browser
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray!! success
+![MySite](mySite.gif)
 
 
 
