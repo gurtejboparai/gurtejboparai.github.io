@@ -15,11 +15,11 @@ University of Manitoba – Winnipeg, MB
 
 ## **Work Experience**
 
-###  **_Merchandiser:_**  _Coca-Cola Canada Bottling Limited, Winnipeg Mar 2021 - Current_
+### **_Merchandiser:_**  _Coca-Cola Canada Bottling Limited, Winnipeg Mar 2021 - Current_
   - Merchandised new stock to appeal to customers, grab attention and drive sales.
   - Proved successful working within tight deadlines and fast-paced atmosphere.  
 
-  ### **_Fulfillment Associate:_**  _Walmart Canada, Winnipeg May 2019 – April 2021_
+### **_Fulfillment Associate:_**  _Walmart Canada, Winnipeg May 2019 – April 2021_
   - Collaborated effectively with coworkers on initiatives focused on achieving measurable improvements in production quality and workflow.
   - Cross-trained new associates on essential job functions and procedures, including picking and filling orders for all warehouse products. 
 
