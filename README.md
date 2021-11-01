@@ -10,7 +10,7 @@ You will need the following:
 3) Markdown editor
   
 ### Instructions
-1) Create a new repository in your Github account
+#### 1) Create a new repository in your Github account
 - Log in to your Github account
 - Click on "New" next to repositories in top left
 - Fill in the name for your repository in the standard format: "username.github.io". Note: use the same username as your Github account's username
@@ -18,14 +18,14 @@ You will need the following:
 - Click on "Create repository" to create the repository
 ![NewRepository](newRepository.gif)  
 
-1) Write your resume in markdowwn format
+#### 2) Write your resume in markdowwn format
 - Write your current resume in markdown fomat using a markdown editor
 - Save your resume as "index.md"
-3) Upload your resume file to Github repository
+#### 3) Upload your resume file to Github repository
 - Click on "uploading an existing file" under "Quick setup" in your repository
 - Upload your resume named as "index.md" to your repository
 - Click on "Commit changes" to save your file
-4) Select a theme for your website
+#### 4) Select a theme for your website
 - Click on "Settings" inside your repository
 - Scroll down to "Github Pages" section at the bottom of the page
 - Click on "Check it out here!" to open Github pages tab
@@ -34,7 +34,7 @@ You will need the following:
 - Click on "Commit changes" to save your changes
 ![ChangeTheme](changeTheme.gif)
 
-1) View your website
+#### 5) View your website
 - Go the link you chose as your reposiroty name "username.github.io" in your browser
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray!! success
