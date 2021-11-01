@@ -17,7 +17,9 @@ You will need the following:
 - Fill in the name for your repository in the standard format: "username.github.io". Note: use the same username as your Github account's username
 - Make sure "Public" is checked so that anyone with the link can acess your website
 - Click on "Create repository" to create the repository
-2) Write your resume in markdowwn format
+![NewRepository](newRepository.gif)  
+
+1) Write your resume in markdowwn format
 - Write your current resume in markdown fomat using a markdown editor
 - Save your resume as "index.md"
 3) Upload your resume file to Github repository
@@ -31,7 +33,9 @@ You will need the following:
 - Click on "Choose a theme" under "Theme Chooser"
 - Choose any given theme and click on "Select theme"  
 - Click on "Commit changes" to save your changes
-5) View your website
+![ChangeTheme](changeTheme.gif)
+
+1) View your website
 - Go the link you chose as your reposiroty name "username.github.io" in your browser
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray!! success
