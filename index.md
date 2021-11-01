@@ -7,26 +7,26 @@ Winnipeg MB, R3T 3N8
 gurtejboparai1999@gmail.com
 
 ----------------------------------------------------------------------------------------------------------  
-### **Education**
+## **Education**
 
 **_Bachelor of Science:_**  _Computer Science Jan 2018 - Current_
 
 University of Manitoba – Winnipeg, MB
 
-### **Work Experience**
+## **Work Experience**
 
-- **_Merchandiser:_**  _Coca-Cola Canada Bottling Limited, Winnipeg Mar 2021 - Current_
+###  **_Merchandiser:_**  _Coca-Cola Canada Bottling Limited, Winnipeg Mar 2021 - Current_
   - Merchandised new stock to appeal to customers, grab attention and drive sales.
-  - Proved successful working within tight deadlines and fast-paced atmosphere.
+  - Proved successful working within tight deadlines and fast-paced atmosphere.  
 
-- **_Fulfillment Associate:_**  _Walmart Canada, Winnipeg May 2019 – April 2021_
+  ### **_Fulfillment Associate:_**  _Walmart Canada, Winnipeg May 2019 – April 2021_
   - Collaborated effectively with coworkers on initiatives focused on achieving measurable improvements in production quality and workflow.
-  - Cross-trained new associates on essential job functions and procedures, including picking and filling orders for all warehouse products.
+  - Cross-trained new associates on essential job functions and procedures, including picking and filling orders for all warehouse products. 
 
-- **_Sales Associate:_**  _MobilinQ, Winnipeg Jan 2019 – April 2019_
+### **_Sales Associate:_**  _MobilinQ, Winnipeg Jan 2019 – April 2019_
   - Worked with sales team to collaboratively reach targets, consistently meeting, or exceeding personal quotas.
 
-### **Qualifications**
+## **Qualifications**
 
 - 3+ years of academic experience in coding with languages like Java, Python, C/C++.
 
@@ -38,24 +38,24 @@ University of Manitoba – Winnipeg, MB
 
 - Ability to quickly learn new concepts and technologies. 
 
-### **Technical Skills**
+## **Technical Skills**
 
-- Programming languages: Java, Python C/C++
+- **Programming languages**: Java, Python C/C++
 
-- Web development: JavaScript, HTML, CSS
+- **Web development**: JavaScript, HTML, CSS
 
-- Version Control: Git
+- **Version Control**: Git
 
-- Database: MySQL
+- **Database**: MySQL
 
-- IDE: IntelliJ, Android Studio, Visual Studio Code
+- **IDE**: IntelliJ, Android Studio, Visual Studio Code
 
-### **Projects**
+## **Projects**
 
-- **_SPL-IT website:_**  _JavaScript, HTML & CSS_
+### **_SPL-IT website:_**  _JavaScript, HTML & CSS_
   - Human Computer Interaction group project
   - Designed a website to split bills.
 
-- **_Task-Monitor app:_**  _Java/Android Studio_
+### **_Task-Monitor app:_**  _Java/Android Studio_
   - Software Engineering group project
   - Designed app to monitor tasks.
