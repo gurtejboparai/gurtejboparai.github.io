@@ -24,7 +24,7 @@ To host our resume, we will use a Distibuted Version Control system(DVCS) such a
 - Click on `Create repository` to create the repository
 ![NewRepository](newRepository.gif)  
 
-#### 2) Write your resume in markdowwn format
+#### 2) Write your resume in markdown format
 In relation to markdown, Etter talks about the popularity of markdown and the fact that it has the cleanest syntax. Moreover, one can easily learn how to write in markdown format within ten minutes. A link to markdown tutorial can be found in [More Resources](#more-resources).
 - Write your current resume in markdown fomat using a markdown editor
 - Save your resume as `index.md`
