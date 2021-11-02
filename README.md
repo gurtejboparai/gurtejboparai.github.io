@@ -45,6 +45,12 @@ You will need the following:
 - Hurray!! success
 ![MySite](mySite.gif)
 
+### More Resources
+
+**Markdown Tutorial:** https://www.markdowntutorial.com/  
+**Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors  
+**Mordern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
+
 ### Authors and Acknowledgements
 **Author:** Gurtej Boparai  
 **Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger and Yucong Nie  
@@ -56,11 +62,7 @@ I would like to thank my group members for helping me with this project.
 2) Why is my resume not showing up?
    - Sometimes it might take a few minutes to show your resume on Github Pages. Keep refreshing the tab until you see your resume. 
    
-### More Resources
 
-**Markdown Tutorial:** https://www.markdowntutorial.com/  
-**Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors  
-**Mordern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
 
 
 
