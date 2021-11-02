@@ -16,7 +16,7 @@ You will need the following:
   
 ### Instructions
 #### 1) Create a new repository in your Github account
-To host our resume, we will use a Distibuted Version Control system(DVCS) such as Git. Andrew Etter in his book _Modern Technical Writing_, mentions that DVCS have better performance, allow online work and are superior for concurrent work on the same file. Github is a great web-based inteface for managing Git repositories. 
+To host a resume, we will use a Distibuted Version Control system(DVCS) such as Git. Andrew Etter in his book _Modern Technical Writing_, mentions that DVCS have better performance, allow online work and are superior for concurrent work on the same file. Github is a great web-based inteface for managing Git repositories. 
 - Log in to your Github account
 - Click on `New` next to repositories in top left
 - Fill in the name for your repository in the standard format: `username.github.io`. Note: use the same username as your Github account's username
