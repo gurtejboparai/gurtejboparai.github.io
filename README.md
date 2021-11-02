@@ -6,8 +6,13 @@ To explain how to host a resume on Github Pages.
 ### Prerequistes
 You will need the following:
 1) Resume
+   - You will need an up-to-date resume in markdown format
+   - For markdown tutorial, go to [More Resources](#more-resources)
 2) Github account
+   - Create a new Github account if you don't have one
 3) Markdown editor
+   - You will need a markdown editor to edit your resume in markdown format
+   - You can find a link to an article naming the best markdown editors in [More Resources](#more-resources)
   
 ### Instructions
 #### 1) Create a new repository in your Github account
@@ -39,6 +44,21 @@ You will need the following:
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray!! success
 ![MySite](mySite.gif)
+
+### Authors and Acknowledgements
+**Author:** Gurtej Boparai
+**Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger and Yucong Nie
+**I would like to thank my group members for helping me with this project.**
+
+### FAQs
+1) Why is Markdown better than a word processor?
+2) Why is my resume not showing up?
+   
+### More Resources
+
+**Markdown Tutorial:** https://www.markdowntutorial.com/
+**Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors 
+**Mordern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
 
 
 
