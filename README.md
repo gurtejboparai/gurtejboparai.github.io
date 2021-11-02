@@ -1,7 +1,7 @@
-## Host your resume online
+## Host your resume on Github Pages
 ------------
 ### Purpose
-To explain how to host a resume on Github Pages.
+To explain how to host a resume on Github Pages and reflect on some key principals and tools in technical communication.
 
 ### Prerequistes
 You will need the following:
@@ -46,13 +46,15 @@ You will need the following:
 ![MySite](mySite.gif)
 
 ### Authors and Acknowledgements
-**Author:** Gurtej Boparai
-**Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger and Yucong Nie
-**I would like to thank my group members for helping me with this project.**
+**Author:** Gurtej Boparai  
+**Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger and Yucong Nie  
+I would like to thank my group members for helping me with this project.
 
 ### FAQs
 1) Why is Markdown better than a word processor?
+   - Markdown is better than word because it is free and superior in every meaningful way. Moreover, Markdown is a popular choice and fine choice for simple web-based help systems.
 2) Why is my resume not showing up?
+   - Sometimes it might take a few minutes to show your resume on Github Pages. Keep refreshing the tab until you see your resume. 
    
 ### More Resources
 
