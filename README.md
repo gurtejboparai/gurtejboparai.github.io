@@ -49,13 +49,13 @@ Etter emphasizes on the importance to build and host a website for your resume i
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray!! success
 ![MySite](mySite.gif)
-------------
+
 ### More Resources
 
 - **Markdown Tutorial:** https://www.markdowntutorial.com/  
 - **Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors  
 - **Mordern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
-
+----------
 ### Authors and Acknowledgements
 **Author:** [Gurtej Boparai](https://github.com/gurtejboparai)  
 **Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger and Yucong Nie  
