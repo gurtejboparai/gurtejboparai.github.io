@@ -58,8 +58,8 @@ I would like to thank my group members for helping me with this project.
    
 ### More Resources
 
-**Markdown Tutorial:** https://www.markdowntutorial.com/
-**Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors 
+**Markdown Tutorial:** https://www.markdowntutorial.com/  
+**Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors  
 **Mordern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
 
 
