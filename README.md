@@ -1,8 +1,12 @@
 ## Host your resume on GitHub Pages
 
+-----------
+
 ### Purpose
 To explain how to host a resume on GitHub Pages and reflect on some key principles and tools in technical communication from Andrew Etter's book _Modern Technical Writing_  
+
 ------------
+
 ### Prerequisites
 You will need the following:
 1) Resume
@@ -55,12 +59,16 @@ Etter emphasizes the importance to build and hosting a website for your resume i
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Markdown Editors](https://www.oberlo.ca/blog/markdown-editors)
 - [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS )
+  
 ----------
+
 ### Authors and Acknowledgements
 **Author:** [Gurtej Boparai](https://github.com/gurtejboparai)  
 **Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger, and Yucong Nie  
 I would like to thank my group members for helping me with this project.
+
 -----------
+
 ### FAQs
 1) Why is Markdown better than a word processor?
    - Markdown is better than word because it is free and superior in every meaningful way. Moreover, Markdown is a popular choice and fine choice for simple web-based help systems.
