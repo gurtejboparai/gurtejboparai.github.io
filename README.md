@@ -95,6 +95,7 @@ I would like to thank my group members for helping me with this project.
    - Markdown is better than word because it is free and superior in every meaningful way. Moreover, Markdown is a popular choice and fine choice for simple web-based help systems.
 2) Why is my resume not showing up?
    - Sometimes it might take a few minutes to show your resume on GitHub Pages. Keep refreshing the tab until you see your resume. 
+   - Make sure your resume is named as `index.md`
    
 
 
