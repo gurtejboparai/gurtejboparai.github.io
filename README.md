@@ -49,7 +49,7 @@ Etter emphasizes on the importance to build and host a website for your resume i
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray!! success
 ![MySite](mySite.gif)
-
+------------
 ### More Resources
 
 - **Markdown Tutorial:** https://www.markdowntutorial.com/  
