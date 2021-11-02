@@ -1,8 +1,8 @@
 ## Host your resume on GitHub Pages
-------------
-### Purpose
-To explain how to host a resume on GitHub Pages and reflect on some key principles and tools in technical communication from Andrew Etter's book _Modern Technical Writing_.
 
+### Purpose
+To explain how to host a resume on GitHub Pages and reflect on some key principles and tools in technical communication from Andrew Etter's book _Modern Technical Writing_  
+------------
 ### Prerequisites
 You will need the following:
 1) Resume
@@ -13,9 +13,9 @@ You will need the following:
 3) Markdown editor
    - You will need a markdown editor to edit your resume in markdown format
    - You can find a link to an article naming the best markdown editors in [More Resources](#more-resources)
-  
+-----------  
 ### Instructions
-#### 1) Create a new repository in your Github account
+#### 1) Create a new repository in your GitHub account
 To host a resume, we will use a Distributed Version Control system(DVCS) such as Git. Andrew Etter in his book _Modern Technical Writing_, mentions that DVCS have better performance, allow online work, and are superior for concurrent work on the same file. GitHub is a great web-based interface for managing Git repositories. 
 - Log in to your GitHub account
 - Click on `New` next to repositories in the top left
@@ -49,18 +49,18 @@ Etter emphasizes the importance to build and hosting a website for your resume i
 - Keep refreshing the tab if you don't see your resume, it might take some time
 - Hurray! Success
 ![MySite](mySite.gif)
-
+------------
 ### More Resources
 
-- **Markdown Tutorial:** https://www.markdowntutorial.com/  
-- **Markdown Editors:** https://www.oberlo.ca/blog/markdown-editors  
-- **Modern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Markdown Editors](https://www.oberlo.ca/blog/markdown-editors)
+- [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS )
 ----------
 ### Authors and Acknowledgements
 **Author:** [Gurtej Boparai](https://github.com/gurtejboparai)  
 **Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger, and Yucong Nie  
 I would like to thank my group members for helping me with this project.
-
+-----------
 ### FAQs
 1) Why is Markdown better than a word processor?
    - Markdown is better than word because it is free and superior in every meaningful way. Moreover, Markdown is a popular choice and fine choice for simple web-based help systems.
