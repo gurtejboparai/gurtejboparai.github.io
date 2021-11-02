@@ -1,7 +1,7 @@
 ## Host your resume on Github Pages
 ------------
 ### Purpose
-To explain how to host a resume on Github Pages and reflect on some key principals and tools in technical communication.
+To explain how to host a resume on Github Pages and reflect on some key principals and tools in technical communication from Andrew Etter's book _Modern Technical Wriring_.
 
 ### Prerequistes
 You will need the following:
