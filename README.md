@@ -57,7 +57,7 @@ Etter emphasizes on the importance to build and host a website for your resume i
 - **Mordern Technical Writing by Andrew Etter:** https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS 
 
 ### Authors and Acknowledgements
-**Author:** Gurtej Boparai  
+**Author:** [Gurtej Boparai](https://github.com/gurtejboparai)  
 **Group Members:** Dean Pistorius, Tim Appleyard, Jordan Unger and Yucong Nie  
 I would like to thank my group members for helping me with this project.
 
