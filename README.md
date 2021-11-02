@@ -1,8 +1,6 @@
 ## Host your resume on GitHub Pages
 
 ### Table of contents
-- [Host your resume on GitHub Pages](#host-your-resume-on-github-pages)
-  - [Table of contents](#table-of-contents)
   - [Purpose](#purpose)
   - [Prerequisites](#prerequisites)
   - [Instructions](#instructions)
